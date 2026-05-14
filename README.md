@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![lipism](https://github.com/youssefbarj/lipism/raw/main/screenshot.png)
+![lipism](https://raw.githubusercontent.com/youssefbarj/lipism/main/screenshot.png)
 
 ## What this slide does
 
